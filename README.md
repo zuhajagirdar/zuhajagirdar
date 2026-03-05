@@ -65,10 +65,10 @@
 
 <a href="https://github.com/zuhajagirdar"> <img src="https://img.shields.io/badge/GitHub-zuhajagirdar-white?style=for-the-badge&logo=github"/> </a> 
 
-<a href="https://www.instagram.com/jjrx2_/"> <img src="https://img.shields.io/badge/Instagram-Photography-pink?style=for-the-badge&logo=instagram"/> </a>
+<a href="https://www.instagram.com/jjrx2_/"> <img src="https://img.shields.io/badge/Instagram-Photography-pink?style=for-the-badge&logo=instagram"/> just a hobby >_< </a>
 
 <a href="mailto:zuhajagirdar02@gmail.com">
-<img src="https://img.shields.io/badge/Email-zuha-grey?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Email-zuhajagirdar02@gmail.com-grey?style=for-the-badge&logo=gmail"/>
 </a>
 
 
