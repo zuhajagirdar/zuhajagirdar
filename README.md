@@ -32,3 +32,17 @@ electronics mind exploring the digital world
 </p>
 
 ![snake animation](https://github.com/zuhajagirdar/zuhajagirdar/blob/output/github-contribution-grid-snake.svg)
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=zuhajagirdar&color=ff69b4&style=for-the-badge"/>
+</p>
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=zuhajagirdar&theme=radical"/>
+</p>
+
+<img src="https://github-readme-stats.vercel.app/api?username=zuhajagirdar&show_icons=true&theme=synthwave"/>
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode"/>
+</p>
