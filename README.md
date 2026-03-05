@@ -8,7 +8,8 @@ learning how ideas turn into reality through code & circuits
 </p>
 
 <p align="center">
-<img href="https://pin.it/5zHh7SgQB" width="250"/>
+<img src="![Yashiro nene ♥︎](https://github.com/user-attachments/assets/49d2deec-73fd-4556-a378-5ff6f53dd6b0)
+" width="250"/>
 </p>
 
 <p align="center">
@@ -31,7 +32,7 @@ learning how ideas turn into reality through code & circuits
 - building small **creative coding projects**
 
 <p align="center">
-<img href="https://pin.it/I6uU8L7oD" width="220"/>
+<img src="https://pin.it/I6uU8L7oD" width="220"/>
 </p>
 
 ---
