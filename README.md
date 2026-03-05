@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff7eb3,100:7873f5&height=230&section=header&text=Zuha%20Jagirdar%20✧&fontSize=44&fontAlignY=40&desc=Electronics%20•%20Software%20•%20Curiosity&descAlignY=65&animation=fadeIn"/>
 </p>
 
-## ✧ who am i
+## ✧ ?
 
 - electronics & telecommunication student  
 - interested in **electronics, signals, and software systems**  
@@ -18,8 +18,7 @@
 
 
 
-## ✧ what i'm currently working on
-
+## ✧ WHAT I'M CURRENTLY WORKING ON
 - learning **HTML • CSS • JavaScript**
 - practicing **Python**
 - exploring **Digital Signal Processing**
@@ -31,7 +30,7 @@
 
 
 
-## ✧ tools i use
+## ✧ TOOLS
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode,matlab"/>
@@ -41,7 +40,7 @@
 ✦ ✧ ✦ ✧ ✦
 </p>
 
-## ✧ github stats
+## ✧ GITHUB STATS
 
 <p align="center">
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=zuhajagirdar&show_icons=true&theme=synthwave&hide_border=true"/>
@@ -57,7 +56,7 @@
 ✦ ✧ ✦ ✧ ✦
 </p>
 
-## ✧ connect with me
+## ✧ CONNECT WITH ME
 
 <p align="center"> 
 
