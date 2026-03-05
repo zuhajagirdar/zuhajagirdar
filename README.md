@@ -52,34 +52,30 @@
 <img src="https://streak-stats.demolab.com?user=zuhajagirdar&theme=synthwave&hide_border=true"/>
 </p>
 
----
-## ✧ contributions
+## ✧ connect with me
 
 <p align="center">
-<img src="https://github.com/zuhajagirdar/zuhajagirdar/blob/output/github-contribution-grid-snake.svg"/>
-</p>
 
---
-
-<p align="center">
+<a href="mailto:zuhajagirdar02@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4AAA?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 <a href="https://www.linkedin.com/in/zuha-jagirdar-128829271">
-<img src="https://skillicons.dev/icons?i=linkedin" height="24"/> <b>LinkedIn</b>
+<img src="https://img.shields.io/badge/LinkedIn-Zuha_Jagirdar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
-&nbsp;•&nbsp;
 
 <a href="https://github.com/zuhajagirdar">
-<img src="https://skillicons.dev/icons?i=github" height="24"/> <b>GitHub</b>
+<img src="https://img.shields.io/badge/GitHub-zuhajagirdar-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-&nbsp;•&nbsp;
-
 <a href="https://www.instagram.com/jjrx2_/">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" height="24"/> <b>Instagram</b>
+<img src="https://img.shields.io/badge/Instagram-jjrx2__-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 </p>
+
+---
+
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=F78FE7&center=true&vCenter=true&width=350&lines=%E2%9C%A8+curiosity+driven+%E2%9C%A8"/>
