@@ -61,22 +61,25 @@
 
 --
 
-## ✧ connect with me
-
 <p align="center">
-<a href="https://www.linkedin.com/in/zuha-jagirdar-128829271">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/zuhajagirdar">
-<img src="https://skillicons.dev/icons?i=github" height="45"/>
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://www.instagram.com/jjrx2_/">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" height="45"/>
-</a>
-</p>
 
+<a href="https://www.linkedin.com/in/zuha-jagirdar-128829271">
+<img src="https://skillicons.dev/icons?i=linkedin" height="24"/> <b>LinkedIn</b>
+</a>
+
+&nbsp;•&nbsp;
+
+<a href="https://github.com/zuhajagirdar">
+<img src="https://skillicons.dev/icons?i=github" height="24"/> <b>GitHub</b>
+</a>
+
+&nbsp;•&nbsp;
+
+<a href="https://www.instagram.com/jjrx2_/">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" height="24"/> <b>Instagram</b>
+</a>
+
+</p>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=F78FE7&center=true&vCenter=true&width=350&lines=%E2%9C%A8+curiosity+driven+%E2%9C%A8"/>
