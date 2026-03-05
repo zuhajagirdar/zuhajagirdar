@@ -8,7 +8,7 @@ learning how ideas turn into reality through code & circuits
 </p>
 
 <p align="center">
-<img src="yashiro.jpg" width="250"/>
+<img src="yashiro.jpg" width="500"/>
 </p>
 
 <p align="center">
@@ -31,7 +31,7 @@ learning how ideas turn into reality through code & circuits
 - building small **creative coding projects**
 
 <p align="center">
-<img src="hanako.jpg" width="220"/>
+<img src="hanako.jpg" width="1000"/>
 </p>
 
 ---
