@@ -29,6 +29,10 @@
 </p>
 
 
+<p align="center">
+✦ ✧ ✦ ✧ ✦
+</p>
+
 
 ## ✧ TOOLS
 
@@ -69,6 +73,10 @@
 <a href="mailto:zuhajagirdar02@gmail.com">
 <img src="https://img.shields.io/badge/Email-zuhajagirdar02@gmail.com-grey?style=for-the-badge&logo=gmail"/>
 </a>
+
+<p align="center">
+✦ ✧ ✦ ✧ ✦
+</p>
 
 
 
