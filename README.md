@@ -72,7 +72,7 @@
 
 
 </p>
-
+<hr><br>
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=F78FE7&center=true&vCenter=true&width=350&lines=%E2%9C%A8+curiosity+driven+%E2%9C%A8"/>
 </p>
