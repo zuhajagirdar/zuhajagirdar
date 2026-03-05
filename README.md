@@ -8,7 +8,7 @@ learning how ideas turn into reality through code & circuits
 </p>
 
 <p align="center">
-<img src="PASTE-HANAKO-GIF-HERE" width="250"/>
+<img src="https://pin.it/5zHh7SgQB" width="250"/>
 </p>
 
 <p align="center">
@@ -31,7 +31,7 @@ learning how ideas turn into reality through code & circuits
 - building small **creative coding projects**
 
 <p align="center">
-<img src="PASTE-SECOND-HANAKO-GIF-HERE" width="220"/>
+<img src="https://pin.it/I6uU8L7oD" width="220"/>
 </p>
 
 ---
