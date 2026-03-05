@@ -8,8 +8,7 @@ learning how ideas turn into reality through code & circuits
 </p>
 
 <p align="center">
-<img src="![Yashiro nene ♥︎](https://github.com/user-attachments/assets/49d2deec-73fd-4556-a378-5ff6f53dd6b0)
-" width="250"/>
+<img src="https://pin.it/3nRyAQtTS.img" width="250"/>
 </p>
 
 <p align="center">
