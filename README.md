@@ -1,48 +1,111 @@
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff7eb3,100:7873f5&height=230&section=header&text=Zuha%20Jagirdar%20✧&fontSize=44&fontAlignY=40&desc=Electronics%20•%20Software%20•%20Curiosity&descAlignY=65&animation=fadeIn"/>
+</p>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff7eb3,100:ff758c&height=220&section=header&text=Zuha%20✧&fontSize=42&fontAlignY=40&desc=Curiosity%20•%20Code%20•%20Circuits&descAlignY=65&animation=fadeIn"/>
+electronics mind exploring the digital world ✧  
+learning how ideas turn into reality through code & circuits
 </p>
 
-
-<p align="center" color=0:ff7eb3>
-electronics mind exploring the digital world 
-
+<p align="center">
+<img src="PASTE-HANAKO-GIF-HERE" width="250"/>
 </p>
 
+<p align="center">
+✦ ✧ ✦ ✧ ✦
+</p>
 
+## ✧ who am i
 
-### ✧ about me
 - electronics & telecommunication student  
-- exploring software + circuits  
-- interested in wireless tech and creative coding  
+- interested in **electronics, signals, and software systems**  
+- curious about **wireless technology, DSP, and creative coding**
 
-<img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif">
+---
 
-### ✧ tech i'm learning
+## ✧ what i'm currently working on
 
-<p>
+- learning **HTML • CSS • JavaScript**
+- practicing **Python**
+- exploring **Digital Signal Processing**
+- building small **creative coding projects**
+
+<p align="center">
+<img src="PASTE-SECOND-HANAKO-GIF-HERE" width="220"/>
+</p>
+
+---
+
+## ✧ tools i use
+
+<p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode,matlab"/>
 </p>
 
-### ✧ github stats
+---
+
+## ✧ featured projects
+
+| project | description |
+|-------|-------------|
+| drawing app | simple creative drawing software project |
+| web assignments | HTML / CSS / JS practice projects |
+| python practice | small scripts and programming exercises |
+
+---
+
+## ✧ github stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zuhajagirdar&show_icons=true&theme=synthwave" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zuhajagirdar&layout=compact&theme=synthwave" height="160"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=zuhajagirdar&show_icons=true&theme=synthwave&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zuhajagirdar&layout=compact&theme=synthwave&hide_border=true"/>
 </p>
 
-![snake animation](https://github.com/zuhajagirdar/zuhajagirdar/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=zuhajagirdar&theme=synthwave&hide_border=true"/>
+</p>
+
+---
+
+## ✧ contributions
+
+<p align="center">
+<img src="https://github.com/zuhajagirdar/zuhajagirdar/blob/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
+## ✧ beyond code
+
+📷 photography — capturing quiet moments and small details  
+🌙 curious about art, stories, and creative technology
+
+---
+
+## ✧ connect with me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/zuha-jagirdar-128829271">
+<img src="https://img.shields.io/badge/LinkedIn-zuha-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/zuhajagirdar">
+<img src="https://img.shields.io/badge/GitHub-zuhajagirdar-black?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.instagram.com/jjrx2_/">
+<img src="https://img.shields.io/badge/Instagram-Photography-pink?style=for-the-badge&logo=instagram"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+✨ curiosity driven ✨
+</p>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=zuhajagirdar&color=ff69b4&style=for-the-badge"/>
-</p>
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=zuhajagirdar&theme=radical"/>
-</p>
-
-<img src="https://github-readme-stats.vercel.app/api?username=zuhajagirdar&show_icons=true&theme=synthwave"/>
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode"/>
 </p>
