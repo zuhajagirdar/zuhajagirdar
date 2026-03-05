@@ -2,7 +2,11 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff7eb3,100:7873f5&height=230&section=header&text=Zuha%20Jagirdar%20✧&fontSize=44&fontAlignY=40&desc=Electronics%20•%20Software%20•%20Curiosity&descAlignY=65&animation=fadeIn"/>
 </p>
 
+## ✧ who am i
 
+- electronics & telecommunication student  
+- interested in **electronics, signals, and software systems**  
+- curious about **wireless technology, DSP, and creative coding**
 
 <p align="center">
 <img src="yashiro.jpg" width="1000" />
@@ -12,13 +16,7 @@
 ✦ ✧ ✦ ✧ ✦
 </p>
 
-## ✧ who am i
 
-- electronics & telecommunication student  
-- interested in **electronics, signals, and software systems**  
-- curious about **wireless technology, DSP, and creative coding**
-
----
 
 ## ✧ what i'm currently working on
 
@@ -31,7 +29,7 @@
 <img src="hanako.jpg" width="1000"/>
 </p>
 
----
+
 
 ## ✧ tools i use
 
@@ -39,6 +37,9 @@
 <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode,matlab"/>
 </p>
 
+<p align="center">
+✦ ✧ ✦ ✧ ✦
+</p>
 
 ## ✧ github stats
 
@@ -50,6 +51,10 @@
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=zuhajagirdar&theme=synthwave&hide_border=true"/>
+</p>
+
+<p align="center">
+✦ ✧ ✦ ✧ ✦
 </p>
 
 ## ✧ connect with me
@@ -74,6 +79,9 @@
 </p>
 
 
+<p align="center">
+✦ ✧ ✦ ✧ ✦
+</p>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=zuhajagirdar&color=ff69b4&style=for-the-badge"/>
