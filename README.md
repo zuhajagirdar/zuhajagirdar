@@ -1,4 +1,19 @@
-✧ somewhere between circuits, signals, and software
-  learning how ideas turn into reality ✧
+<h1 align="center">hi, i'm zuha ✧</h1>
 
-![Z u h a's GitHub stats](https://github-readme-stats.vercel.app/api?username=zuhajagirdar&show_icons=true&theme=radical)
+<p align="center">
+electronics mind exploring the digital world ⚡  
+learning code, building small things, and following curiosity.
+</p>
+
+
+
+### ✧ about me
+- electronics & telecommunication student  
+- exploring software + circuits  
+- interested in wireless tech and creative coding  
+
+
+
+![Zuha's GitHub stats](https://github-readme-stats.vercel.app/api?username=zuhajagirdar&show_icons=true&theme=synthwave)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zuhajagirdar&layout=compact&theme=synthwave)
