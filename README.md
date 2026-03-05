@@ -56,7 +56,6 @@ learning how ideas turn into reality through code & circuits
 </p>
 
 ---
-
 ## ✧ contributions
 
 <p align="center">
@@ -84,6 +83,24 @@ learning how ideas turn into reality through code & circuits
 </p>
 
 ---
+
+<p align="center">
+✨ curiosity driven ✨
+</p>
+
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=F78FE7&center=true&vCenter=true&width=350&lines=%E2%9C%A8+curiosity+driven+%E2%9C%A8"/>
+</p>
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212259838-1d8e4c68-df4e-4a5b-bf7d-5f7f3d30e5b5.gif" width="400"/>
+</p>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff9a9e,100:fbc2eb&height=60&section=header&text=✨%20Curiosity%20Driven%20✨&fontSize=22&fontColor=ffffff"/>
+</p>
+
 
 <p align="center">
 ✨ curiosity driven ✨
