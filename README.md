@@ -1,7 +1,6 @@
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff7eb3,100:7873f5&height=230&section=header&text=Zuha%20Jagirdar%20✧&fontSize=44&fontAlignY=40&desc=Electronics%20•%20Software%20•%20Curiosity&descAlignY=65&animation=fadeIn"/>
 </p>
-
 ## ✧ ?
 
 - electronics & telecommunication student  
