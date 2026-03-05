@@ -1,8 +1,8 @@
-<h1 align="center">hi, i'm zuha ✧</h1>
+<h1 align="center">hello! i'm Z u h a ~</h1>
 
 <p align="center">
 electronics mind exploring the digital world ⚡  
-learning code, building small things, and following curiosity.
+learning code, building small things, and following curiosity ✧
 </p>
 
 
