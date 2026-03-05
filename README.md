@@ -42,17 +42,6 @@ learning how ideas turn into reality through code & circuits
 <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode,matlab"/>
 </p>
 
----
-
-## ✧ featured projects
-
-| project | description |
-|-------|-------------|
-| drawing app | simple creative drawing software project |
-| web assignments | HTML / CSS / JS practice projects |
-| python practice | small scripts and programming exercises |
-
----
 
 ## ✧ github stats
 
@@ -72,13 +61,6 @@ learning how ideas turn into reality through code & circuits
 <p align="center">
 <img src="https://github.com/zuhajagirdar/zuhajagirdar/blob/output/github-contribution-grid-snake.svg"/>
 </p>
-
----
-
-## ✧ beyond code
-
-📷 photography — capturing quiet moments and small details  
-🌙 curious about art, stories, and creative technology
 
 ---
 
