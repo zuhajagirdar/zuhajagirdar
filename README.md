@@ -54,28 +54,7 @@
 
 ## ✧ connect with me
 
-<p align="center">
-
-<a href="mailto:zuhajagirdar02@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4AAA?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/zuha-jagirdar-128829271">
-<img src="https://img.shields.io/badge/LinkedIn-Zuha_Jagirdar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/zuhajagirdar">
-<img src="https://img.shields.io/badge/GitHub-zuhajagirdar-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.instagram.com/jjrx2_/">
-<img src="https://img.shields.io/badge/Instagram-jjrx2__-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-</p>
-
----
-
+<p align="center"> <a href="https://www.linkedin.com/in/zuha-jagirdar-128829271"> <img src="https://img.shields.io/badge/LinkedIn-zuha-blue?style=for-the-badge&logo=linkedin"/> </a> <a href="https://github.com/zuhajagirdar"> <img src="https://img.shields.io/badge/GitHub-zuhajagirdar-black?style=for-the-badge&logo=github"/> </a> <a href="https://www.instagram.com/jjrx2_/"> <img src="https://img.shields.io/badge/Instagram-Photography-pink?style=for-the-badge&logo=instagram"/> </a> </p>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=F78FE7&center=true&vCenter=true&width=350&lines=%E2%9C%A8+curiosity+driven+%E2%9C%A8"/>
