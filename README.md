@@ -59,31 +59,23 @@
 <img src="https://github.com/zuhajagirdar/zuhajagirdar/blob/output/github-contribution-grid-snake.svg"/>
 </p>
 
----
-
+--
 
 ## ✧ connect with me
 
 <p align="center">
-
 <a href="https://www.linkedin.com/in/zuha-jagirdar-128829271">
-<img src="https://img.shields.io/badge/LinkedIn-zuha-blue?style=for-the-badge&logo=linkedin"/>
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
-
+&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/zuhajagirdar">
-<img src="https://img.shields.io/badge/GitHub-zuhajagirdar-white?style=for-the-badge&logo=github"/>
+<img src="https://skillicons.dev/icons?i=github" height="45"/>
 </a>
-
+&nbsp;&nbsp;&nbsp;
 <a href="https://www.instagram.com/jjrx2_/">
-<img src="https://img.shields.io/badge/Instagram-Photography-pink?style=for-the-badge&logo=instagram"/>
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" height="45"/>
 </a>
-
-<a href="mailto:zuhajagirdar02@gmail.com">
-<img src="https://img.shields.io/badge/Email-zuhajagirdar02%40gmail.com-grey?style=for-the-badge&logo=gmail"/>
-</a>
-
 </p>
-
 
 
 <p align="center">
