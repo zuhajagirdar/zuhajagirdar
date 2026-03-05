@@ -17,10 +17,11 @@ electronics mind exploring the digital world
 - interested in wireless tech and creative coding  
 
 <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif">
+
 ### ✧ tech i'm learning
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode,matlab"/>
 </p>
 
 ### ✧ github stats
