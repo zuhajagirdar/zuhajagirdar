@@ -1,2 +1,2 @@
-📡 Electronics & Telecommunication student with a CS minor, drawn to the invisible conversations of signals, waves, and networks.  
-Exploring the space where circuits think, software speaks, and wireless systems carry ideas across the air.
+✧ somewhere between circuits, signals, and software
+  learning how ideas turn into reality ✧
