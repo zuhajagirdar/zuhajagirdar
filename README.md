@@ -8,7 +8,7 @@ learning how ideas turn into reality through code & circuits
 </p>
 
 <p align="center">
-<img src="yashiro.jpg" width="1000" height="200"/>
+<img src="yashiro.jpg" width="1000" />
 </p>
 
 <p align="center">
