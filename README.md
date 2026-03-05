@@ -4,8 +4,8 @@
 </p>
 
 
-<p align="center">
-electronics mind exploring the digital world ⚡  
+<p align="center" color=0:ff7eb3>
+electronics mind exploring the digital world 
 
 </p>
 
