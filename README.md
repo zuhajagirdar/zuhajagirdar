@@ -18,7 +18,7 @@
 
 
 
-## ✧ WHAT I'M CURRENTLY WORKING ON
+## ✧ THESE DAYS ~
 - learning **HTML • CSS • JavaScript**
 - practicing **Python**
 - exploring **Digital Signal Processing**
