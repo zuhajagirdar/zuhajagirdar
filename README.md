@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&color=F78FE7&center=true&vCenter=true&width=500&lines=Hello+I'm+Zuha+✧;Electronics+%2B+Software+Explorer;Learning+Code+and+Circuits;Curiosity+Driven+Builder" />
+</p>
+
 <h1 align="center">hello! i'm Z u h a ~</h1>
 
 <p align="center">
@@ -13,8 +17,17 @@ learning code, building small things, and following curiosity ✧
 - interested in wireless tech and creative coding  
 
 
+### ✧ tech i'm learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode"/>
+</p>
+
+### ✧ github stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zuhajagirdar&show_icons=true&theme=synthwave" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zuhajagirdar&layout=compact&theme=synthwave" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=zuhajagirdar&show_icons=true&theme=synthwave" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zuhajagirdar&layout=compact&theme=synthwave" height="160"/>
 </p>
+
+![snake animation](https://github.com/zuhajagirdar/zuhajagirdar/blob/output/github-contribution-grid-snake.svg)
