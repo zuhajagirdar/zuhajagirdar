@@ -14,6 +14,7 @@ learning code, building small things, and following curiosity ✧
 
 
 
-![Zuha's GitHub stats](https://github-readme-stats.vercel.app/api?username=zuhajagirdar&show_icons=true&theme=synthwave)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zuhajagirdar&layout=compact&theme=synthwave)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zuhajagirdar&show_icons=true&theme=synthwave" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zuhajagirdar&layout=compact&theme=synthwave" height="150"/>
+</p>
