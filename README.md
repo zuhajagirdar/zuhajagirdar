@@ -16,7 +16,7 @@ electronics mind exploring the digital world
 - exploring software + circuits  
 - interested in wireless tech and creative coding  
 
-
+<img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif">
 ### ✧ tech i'm learning
 
 <p>
