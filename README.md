@@ -70,7 +70,7 @@
 </a>
 
 <a href="https://github.com/zuhajagirdar">
-<img src="https://img.shields.io/badge/GitHub-zuhajagirdar-black?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-zuhajagirdar-white?style=for-the-badge&logo=github"/>
 </a>
 
 <a href="https://www.instagram.com/jjrx2_/">
