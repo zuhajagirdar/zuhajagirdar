@@ -63,6 +63,8 @@
 
 ## ✧ connect with me
 
+## ✧ connect with me
+
 <p align="center">
 
 <a href="https://www.linkedin.com/in/zuha-jagirdar-128829271">
@@ -70,15 +72,18 @@
 </a>
 
 <a href="https://github.com/zuhajagirdar">
-<img src="https://img.shields.io/badge/GitHub-zuhajagirdar-white?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-zuhajagirdar-black?style=for-the-badge&logo=github"/>
 </a>
 
 <a href="https://www.instagram.com/jjrx2_/">
 <img src="https://img.shields.io/badge/Instagram-Photography-pink?style=for-the-badge&logo=instagram"/>
 </a>
 
-</p>
+<a href="mailto:zuhajagirdar02@gmail.com">
+<img src="https://img.shields.io/badge/Email-zuhajagirdar02%40gmail.com-red?style=for-the-badge&logo=gmail"/>
+</a>
 
+</p>
 
 
 
