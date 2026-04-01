@@ -19,8 +19,8 @@
 
 
 ## ✧ THESE DAYS ~
-- learning **HTML • CSS • JavaScript**
-- practicing **Python**
+- learning **HTML • CSS • JSON**
+- practicing **Python** 
 - exploring **Digital Signal Processing**
 - building small **creative coding projects**
 
