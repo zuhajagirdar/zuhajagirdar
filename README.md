@@ -46,8 +46,6 @@
 
 ## ✧ GITHUB STATS
 
-<p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=zuhajagirdar&show_icons=true&theme=synthwave&hide_border=true"/>
   
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zuhajagirdar&layout=compact&theme=synthwave&hide_border=true"/>
 </p>
