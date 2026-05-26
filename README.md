@@ -44,20 +44,6 @@
 ✦ ✧ ✦ ✧ ✦
 </p>
 
-## ✧ GITHUB STATS
-
-  
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zuhajagirdar&layout=compact&theme=synthwave&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=zuhajagirdar&theme=synthwave&hide_border=true"/>
-</p>
-
-<p align="center">
-✦ ✧ ✦ ✧ ✦
-</p>
-
 ## ✧ CONNECT WITH ME
 
 <p align="center"> 
