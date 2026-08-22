@@ -91,10 +91,6 @@ For AI, I'm interested in **assistive systems that help with decisions and every
 
 <div align="center">
 
-<sub>
-Digital Signal Processing · Signal Analysis · Wireless Communication · Electronics
-</sub>
-
 </div>
 
 ---
@@ -111,9 +107,6 @@ Digital Signal Processing · Signal Analysis · Wireless Communication · Electr
 
 <br>
 
-<sub>
-small animations · digital illustrations · photographs · random creative experiments
-</sub>
 
 </div>
 
