@@ -2,19 +2,11 @@
 
 # 𝒁𝒖𝒉𝒂 𝑱𝒂𝒈𝒊𝒓𝒅𝒂𝒓
 
-<br>
-
-`⌁ embedded`　`⌁ iot`　`⌁ software`　`⌁ signals`　`⌁ creative tech`
-
-<br><br>
-
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=17&duration=3000&pause=900&color=9B8AFB&center=true&vCenter=true&width=500&lines=electronics+%2B+software+%2B+art;building+%E2%80%A2+learning+%E2%80%A2+experimenting;one+thing+at+a+time+%E2%9C%A7"/>
 
 </div>
 
 <br>
-
----
 
 <div align="center">
 
@@ -25,8 +17,6 @@
 <br>
 
 ### 𝒂𝒃𝒐𝒖𝒕
-
-Third-year ENTC student working across **electronics, software, and connected systems**.
 
 **IoT · microcontrollers · embedded systems · DSP · wireless communication · agentic AI**
 
