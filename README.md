@@ -2,7 +2,7 @@
 
 # 𝒁𝒖𝒉𝒂 𝑱𝒂𝒈𝒊𝒓𝒅𝒂𝒓
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=17&duration=3000&pause=900&color=9B8AFB&center=true&vCenter=true&width=500&lines=electronics+%2B+software+%2B+art;building+%E2%80%A2+learning+%E2%80%A2+experimenting;one+thing+at+a+time+%E2%9C%A7"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=17&duration=3500&pause=1100&color=9B8AFB&center=true&vCenter=true&width=600&lines=Nothing+is+ever+truly+lost.;Keep+moving+forward.;There+is+always+another+way.;Small+steps+still+take+you+somewhere.;Make+something+worth+remembering.;The+world+is+bigger+than+you+think.;Even+the+stars+take+time+to+shine.;Maybe+the+next+chapter+will+be+beautiful.;One+day,+you'll+look+back+and+smile.;Keep+going+%E2%9C%A7"/>
 
 </div>
 
