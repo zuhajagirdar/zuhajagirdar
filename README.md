@@ -107,7 +107,7 @@ AI systems that work alongside people — helping with decisions, handling compl
 
 ## `04` — beyond engineering
 
-**Digital Art** · **Drawing** · **Animation** · **Photography** · **Creative Coding**
+**Digital Art** · **Animation** · **Photography** · **Creative Coding**
 
 I like making things visually as much as I like understanding how they work.
 
