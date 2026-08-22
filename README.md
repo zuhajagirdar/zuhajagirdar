@@ -103,7 +103,7 @@ For AI, I'm interested in **assistive systems that help with decisions and every
 
 ### 𝒃𝒆𝒚𝒐𝒏𝒅 𝒆𝒏𝒈𝒊𝒏𝒆𝒆𝒓𝒊𝒏𝒈
 
-**Digital Art**　·　**Drawing**　·　**Animation**　·　**Photography**　·　**Creative Coding**
+**Digital Art**　·　**Animation**　·　**Photography**　·　**Gaming**
 
 <br>
 
@@ -112,7 +112,7 @@ For AI, I'm interested in **assistive systems that help with decisions and every
 
 <br>
 
----
+
 
 <div align="center">
 
