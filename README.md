@@ -1,76 +1,74 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff7eb3,100:7873f5&height=230&section=header&text=Zuha%20Jagirdar%20✧&fontSize=44&fontAlignY=40&desc=Electronics%20•%20Software%20•%20Curiosity&descAlignY=65&animation=fadeIn"/>
-</p>
-
-## ✧ ?
-
-- electronics & telecommunication student  
-- interested in **electronics, signals, and software systems**  
-- curious about **wireless technology, DSP, and creative coding**
-
-<p align="center">
-<img src="yashiro.jpg" width="1000" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff7eb3,50:c084fc,100:6366f1&height=230&section=header&text=Zuha%20Jagirdar%20✧&fontSize=46&fontAlignY=40&desc=Electronics%20%26%20Telecommunication%20Engineering&descAlignY=65&animation=fadeIn"/>
 </p>
 
 <p align="center">
-✦ ✧ ✦ ✧ ✦
+  <i>building, learning, and figuring out where curiosity takes me.</i>
 </p>
 
+<br>
 
+## about
 
-## ✧ THESE DAYS ~
-- learning **HTML • CSS • JSON**
-- practicing **Python** 
-- exploring **Digital Signal Processing**
-- building small **creative coding projects**
+I'm **Zuha**, a third-year Electronics & Telecommunication Engineering student interested in the intersection of **electronics, embedded systems, and software**.
 
-<p align="center">
-<img src="hanako.jpg" width="1000"/>
-</p>
+Lately, I've been particularly drawn to **IoT and microcontrollers** — experimenting with platforms like **ESP32 and 8051** and building small systems to understand how hardware and software come together.
 
+Alongside electronics, I'm exploring **programming, databases, signal processing, and web technologies**, mostly through hands-on projects and experimentation.
 
-<p align="center">
-✦ ✧ ✦ ✧ ✦
-</p>
+---
 
-
-## ✧ TOOLS
+## currently exploring
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode,matlab"/>
+  <img src="https://skillicons.dev/icons?i=python,java,mysql,html,css,js,arduino,matlab,git,github,vscode&perline=11"/>
 </p>
 
 <p align="center">
-✦ ✧ ✦ ✧ ✦
+  <sub>
+    Python · Java · SQL · HTML · CSS · JavaScript · MATLAB · Arduino · ESP32 · 8051 · Verilog
+  </sub>
 </p>
 
-## ✧ CONNECT WITH ME
+<br>
 
-<p align="center"> 
+**Focus areas**
 
-<a href="https://www.linkedin.com/in/zuha-jagirdar-128829271"> <img src="https://img.shields.io/badge/LinkedIn-zuha-blue?style=for-the-badge&logo=linkedin"/> </a> 
+`IoT` · `Microcontrollers` · `Embedded Systems` · `Digital Signal Processing`
+`Wireless Communication` · `VLSI` · `Software Development`
 
-<a href="https://github.com/zuhajagirdar"> <img src="https://img.shields.io/badge/GitHub-zuhajagirdar-white?style=for-the-badge&logo=github"/> </a> 
+---
 
-<a href="mailto:zuhajagirdar02@gmail.com">
-<img src="https://img.shields.io/badge/Email-zuhajagirdar02@gmail.com-grey?style=for-the-badge&logo=gmail"/>
+## beyond engineering
+
+When I'm not working with circuits or code, you'll probably find me **drawing, making art, experimenting with animation, taking photographs, or playing around with creative ideas**.
+
+I like having both sides — the structured, technical part of engineering and the more visual, messy side of making things.
+
+<p align="center">
+  <img src="yashiro.jpg" width="820"/>
+</p>
+
+---
+
+## connect
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/zuha-jagirdar-128829271">
+  <img src="https://img.shields.io/badge/LinkedIn-Zuha%20Jagirdar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<p align="center">
-✦ ✧ ✦ ✧ ✦
-</p>
+<a href="mailto:zuhajagirdar02@gmail.com">
+  <img src="https://img.shields.io/badge/Email-ff7eb3?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=F78FE7&center=true&vCenter=true&width=350&lines=%E2%9C%A8+curiosity+driven+%E2%9C%A8"/>
-</p>
-
-
-<p align="center">
-✦ ✧ ✦ ✧ ✦
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=zuhajagirdar&color=ff69b4&style=for-the-badge"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=3200&pause=900&color=F78FE7&center=true&vCenter=true&width=520&lines=electronics+%2B+software+%2B+curiosity;building+%E2%80%A2+learning+%E2%80%A2+experimenting;always+something+new+to+explore+%E2%9C%A7"/>
+</p>
+
+<p align="center">
+  <sub>✦ thanks for stopping by ✦</sub>
 </p>
